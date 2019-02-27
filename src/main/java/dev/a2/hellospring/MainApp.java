@@ -10,6 +10,7 @@ public class MainApp {
         ApplicationContext context = new ClassPathXmlApplicationContext("Beans.xml");
 	    HelloWorld obj = (HelloWorld) context.getBean("helloWorld");
 	    obj.getMessage();
+	    obj.getMessage();
 	   }
 
 }
