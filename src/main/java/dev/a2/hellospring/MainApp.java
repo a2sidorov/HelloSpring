@@ -12,6 +12,7 @@ public class MainApp {
 	    obj.getMessage();
 	    obj.getMessage();
 	    obj.getMessage();
+	    obj.getMessage();
 	   }
 
 }
