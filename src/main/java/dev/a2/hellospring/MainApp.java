@@ -14,6 +14,11 @@ public class MainApp {
 	    obj.getMessage();
 	    obj.getMessage();
 	    
+	    //for loop from mac
+	    for(int i = 0; i < 100; i++) {
+	    	System.out.println("hello world");
+	    }
+	    
 	    
 	   }
 
